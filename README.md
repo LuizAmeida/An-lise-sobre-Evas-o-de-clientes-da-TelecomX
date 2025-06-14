@@ -212,4 +212,4 @@ pip install -r requirements.txt
 # 📝**Autor**
 
 ## GitHub: @LuizAlmeida
-## Email: luiz_marques84@outlook.com
+## Email: luiz_almeida84@outlook.com
