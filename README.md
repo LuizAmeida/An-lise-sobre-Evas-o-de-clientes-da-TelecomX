@@ -197,3 +197,18 @@ model.fit(X_train, y_train)
 
 # Visão Final:
 - Esta análise fornece um mapa claro para reduzir o churn em 32% nos próximos 18 meses, potencialmente aumentando a receita anual em $4.2M considerando a base atual de clientes. As estratégias propostas combinam intervenções diretas com melhorias estruturais no modelo de negócios.
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+## 🛠️ Instalação
+
+```
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+pip install -r requirements.txt
+```
+
+GitHub: @LuizAlmeida
+Email: luizmarquesluiz84@gmail.com
